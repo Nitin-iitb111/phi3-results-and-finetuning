@@ -1,7 +1,6 @@
 # **📘 Phi-3 Vision: Domain-Specific Multimodal Reasoning & Finetuning**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Model](https://img.shields.io/badge/model-Phi--3%20Vision-4B-blueviolet)
 ![GPU](https://img.shields.io/badge/GPU-Tesla%20T4-important)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
 
